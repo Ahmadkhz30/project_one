@@ -1,2 +1,2 @@
-# project_one
+# Hello Git
 Git Exercises class 48
